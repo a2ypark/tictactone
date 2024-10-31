@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 import numpy as np
 import random
 
@@ -857,3 +852,4 @@ if not state:
             playboard.printTurn(player1, computer)
 
     print("The game has ended. Thanks for playing!")
+    
